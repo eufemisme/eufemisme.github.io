@@ -1,0 +1,27 @@
+p {
+    color: rgb(216, 18, 18);
+}
+
+.pink{
+    color: pink;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.big-font {
+    font-size: 40px;
+    border: 3px;
+    border-color: brown; /**/
+    padding-top: 20px;
+    font-family: 'Roboto-regular';
+}
+
+.up-picture {
+    bottom: 100px;
+    right: 100px;
+    position: absolute;
+    height: 100px;
+    width: auto;
+    aspect-ratio: 1;
+    background-color: black;
+}

@@ -1,0 +1,14 @@
+<p>это мой первый сайт</p>
+    <p>текст
+        <b>жирный 
+            <i>наклонный и жирный</i>
+        </b> снова жирненький
+    </p>
+    
+    <div>просто div</div>
+    <div class="pink big-font">с новой строки розовый и большой div с отступом</div>
+    <span>текст со span--</span>
+    <span>текст со span в одну строчку</span>
+    <div></div>
+    <img src="images/карта.jpg" alt="картиночка" class="up-picture">
+    
